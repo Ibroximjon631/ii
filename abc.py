@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-print('Hiiiiiiiiiii')
+print('Hiiiiiiiiiiiii')
 
-=======
-print('Hiii')
->>>>>>> develop
